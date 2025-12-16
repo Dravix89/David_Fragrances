@@ -291,6 +291,6 @@ export const summerFragrances = [
     ],
     description:
       "Jasmin Mysterieux by Maïssa Parfums is a floral green fragrance inspired by Algerian summer evenings. \n It opens with fruity peach notes, develops into a heart of jasmine sambac and ylang-ylang, and settles into a soft, enveloping base of vanilla and musk, leaving a warm and radiant trail.",
-    logo: "/images/Summer20.jpg",
+    logo: "/images/Summer21.jpg",
   },
 ];
