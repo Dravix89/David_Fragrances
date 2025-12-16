@@ -279,4 +279,18 @@ export const summerFragrances = [
       "Hors‑Piste by Bastille Parfums is a fresh, citrus‑aromatic eau de parfum. \n It opens with bright mandarin, sweet orange, and juniper, develops into a heart of maté, ginger, and pink pepper, and dries down on a modern base of cedar, ambroxan, and jasmine (Karismal), delivering energetic and unexpected freshness.",
     logo: "/images/Summer20.jpg",
   },
+  {
+    title: "Jasmin Mysterieux",
+    brand: "Maïssa Parfums",
+    launched: "2020",
+    perfumers: "Not Disclosed",
+    notes: [
+      "Top Notes : Peach",
+      "Middle Notes : Jasmine Sambac, Ylang Ylang",
+      "Base Notes : Vanilla, Musk",
+    ],
+    description:
+      "Jasmin Mysterieux by Maïssa Parfums is a floral green fragrance inspired by Algerian summer evenings. \n It opens with fruity peach notes, develops into a heart of jasmine sambac and ylang-ylang, and settles into a soft, enveloping base of vanilla and musk, leaving a warm and radiant trail.",
+    logo: "/images/Summer20.jpg",
+  },
 ];
